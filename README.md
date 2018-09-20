@@ -1,3 +1,3 @@
-@@ -0,0 +1,2 @@
 # hangzhou
 An interactive website designed for my GEOG 204 (Cities of the World) class at UIUC as part of the VR assignment.
+Visit https://davidchen.cf for more information.
