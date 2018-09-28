@@ -3428,7 +3428,10 @@ input, select, textarea {
 		text-align: center;
 		z-index: 21;
 	}
-
+	/* Style the video: 100% width and height to cover the entire window */
+	#myVideo {
+    		position: relative;
+	}
 		#banner:before {
 			content: '';
 			display: inline-block;
@@ -4068,11 +4071,3 @@ input, select, textarea {
 					}
 
 	}
-/* Style the video: 100% width and height to cover the entire window */
-#myVideo {
-    position: fixed;
-    right: 0;
-    bottom: 0;
-    min-width: 100%; 
-    min-height: 100%;
-}
